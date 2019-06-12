@@ -1,0 +1,54 @@
+
+  [
+    {
+      "name":"Length",
+      "topColour":{
+        "red":61,
+        "green":172,
+        "blue":247
+      },
+      "bottomColour":{
+        "red":61,
+        "green":172,
+        "blue":247
+      },
+      "baseUnit": {
+        "name":"Metres",
+        "shortName":"m",
+        "description":"This is an example",
+        "conversion":1,
+        "offset":0
+      },
+
+      "units":[
+        {
+          "name":"Metres",
+          "shortName":"m",
+          "description":"This is an example",
+          "conversion":1,
+          "offset":0
+        },
+        {
+          "name":"Centimetres",
+          "shortName":"cm",
+          "description":"This is an example",
+          "conversion":0.01,
+          "offset":0
+        },
+        {
+          "name":"Kilometres",
+          "shortName":"km",
+          "description":"This is an example",
+          "conversion":1000,
+          "offset":0
+        },
+        {
+          "name":"Inch",
+          "shortName":"in",
+          "description":"Looooooooooooooooooooooooooooo oooooooooooooooooooooooooooooo oooooooooooooooooooooooo ooooooooooooooooooooooooooooooo ooooooooooooooooooooooooo oooooooooooooook at the long description",
+          "conversion":0.024,
+          "offset":0
+        }
+      ]
+    }
+  ]
